@@ -6,18 +6,21 @@ videoLink: "https://www.youtube.com/embed/E8jHwinJRyQ"
 videoSrc: "ford.mp4"
 ---
 
-hello Syntxh polaroid bitters chillwave pickled. Vegan disrupt tousled, Portland keffiyeh aesthetic food truck sriracha cornhole single-origin coffee church-key roof party. Leggings ethical McSweeney's, normcore you probably haven't heard of them Marfa organic squid. Slow-carb 90's ennui Godard pug asymmetrical, narwhal VHS Tonx 
-
+Machine Learning @School Camp è un corso pratico sui concetti e le tecnologie di Machine Larning indirizzato a studenti delle scuole professionali. Tramite l'utilizzo di risorse aperte, demo e strumenti interattivi, gli studenti fanno esperienza di un processo progettuale durante il quale acquisiscono delle competenze su come realizzare progetti digitali basati sul Machine Learning e su come ideare e prototipare velocemente delle soluzioni che hanno un impatto sulle vite delle persone.
 
 ## Quando?
-24 ⟶ 27 June <br>
-FabLab SUPSI
+24 ⟶ 27 giugno 2019 <br>
+presso il FabLab SUPSI, Campus Trevano
 
 ## Organizzato da
-Laboratorio cultura visiva in collaborazione con SAMT Scuola Arte e Mestieri Trevano - Sezione Informatica e IDSIA Instituto dalle Molle per l’Intelligenza Artificiale (con il supporto di Gebert ruf Stiftung)
+Laboratorio cultura visiva in collaborazione con SAMT Scuola Arte e Mestieri Trevano - Sezione Informatica e IDSIA Instituto dalle Molle per l’Intelligenza Artificiale.
+
+## Con il supporto di
+Gebert Rüf Stiftung
+www.grstiftung.ch
 
 # Il programma
-Il camp si sviluppa su quattro giornate e combina attività di lezione pratica con lo sviluppo di un progetto attraverso tecnologie e strumenti per il machine learning.
+Il camp dura quattro giorni e combina lezione teoriche e pratica e attività finalizzate allo sviluppo di un progetto attraverso tecnologie e strumenti di Machine Learning.
 
 <!-- ☁️⬇️ -->
 <!-- se vuoi la nuvoletta nel link copia questo html snippet
